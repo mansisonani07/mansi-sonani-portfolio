@@ -1,0 +1,4 @@
+.font-display { font-family: 'Instrument Serif', serif; }
+.font-body { font-family: 'Inter', sans-serif; }
+.text-balance { text-wrap: balance; }
+.tracking-tightest { letter-spacing: -0.05em; }

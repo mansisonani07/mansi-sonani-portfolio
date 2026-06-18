@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "last_updated": "2026-06",
+    "portfolio_config": {
+      "name_slug": "mansi-sonani",
+      "primary_color": "#10B981",
+      "secondary_color": "#6366F1",
+      "preferred_theme": "dark"
+    }
+  },
+  "basics": {
+    "name": "Mansi Sonani",
+    "label": "AI Automation Developer & Prompt Engineer",
+    "tagline": "Building autonomous multi-agent systems and hyper-efficient n8n workflows that turn weeks of manual development into seconds of AI execution.",
+    "email": "sonanimansi05@gmail.com",
+    "location": { "state": "Gujarat", "country": "India" },
+    "availability": "Open to Full-Time Opportunities",
+    "summary": "AI Automation Developer specializing in multi-agent systems, n8n workflows, and production-grade LLM integration. Renowned for building Synapse-AI, a 5-agent autonomous B2B integration platform that slashed development times from 3 weeks to 25 seconds.",
+    "profiles": [
+      { "network": "GitHub", "username": "mansisonani07", "url": "https://github.com/mansisonani07" },
+      { "network": "LinkedIn", "username": "mansi-sonani-0993513a6", "url": "https://linkedin.com/in/mansi-sonani-0993513a6" }
+    ]
+  },
+  "core_skills": {
+    "automation_and_orchestration": ["n8n", "LangGraph", "LangChain", "Multi-Agent Orchestration", "Webhook Integration", "REST API Design"],
+    "ai_and_llms": ["Groq AI (Llama-3.3-70b)", "Google Gemini API", "Google Cloud Generative AI", "Prompt Engineering", "JSON Schema Structured Outputs"],
+    "frontend": ["React 19", "TypeScript", "Tailwind CSS v4", "Framer Motion", "Vite 7", "HTML5/CSS3/JavaScript"],
+    "backend_and_data": ["Python", "FastAPI", "Async Python", "Supabase (PostgreSQL)", "SQLite", "Airtable", "Google Sheets API"],
+    "tools_and_devops": ["Apify", "Vercel", "Render", "Git", "GitHub Actions", "CI/CD Pipelines"]
+  },
+  "experience": [
+    {
+      "role": "AI Automation Developer (Freelance)",
+      "company": "Self-Employed",
+      "location": "Remote",
+      "start_date": "2026",
+      "end_date": "Present",
+      "summary": "Providing end-to-end architecture, development, and deployment of production AI systems for global clients.",
+      "highlights": [
+        "Built and successfully deployed 6 production AI systems, managing the complete project lifecycle.",
+        "Specialized in constructing complex multi-agent workflows using LangGraph and n8n.",
+        "Authored meticulous public open-source code repositories with architectural diagrams and documentation."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Computer Applications (BCA)",
+    "institution": "Swami Sahajanand College of Computer Science, Bhavnagar, Gujarat",
+    "start_date": "2022-09",
+    "end_date": "2025-04",
+    "grade": "First Class (62.37%)"
+  },
+  "certifications": [
+    { "name": "Microsoft Azure DevOps Introduction", "issuer": "Microsoft Learn", "year": "2025" },
+    { "name": "Microsoft AI Skills Fest 2025 (50-Day Coding Challenge)", "issuer": "Microsoft", "year": "2025" },
+    { "name": "Introduction to Generative AI (Completion Badge)", "issuer": "Google Cloud", "year": "2025" }
+  ]
+}

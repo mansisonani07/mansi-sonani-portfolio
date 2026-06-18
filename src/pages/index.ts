@@ -1,0 +1,8 @@
+export { default as HomePage } from './HomePage'
+export { default as WorkPage } from './WorkPage'
+export { default as ProjectDetailPage } from './ProjectDetailPage'
+export { default as ResumePage } from './ResumePage'
+export { default as JournalPage } from './JournalPage'
+export { default as JournalDetailPage } from './JournalDetailPage'
+export { default as AboutPage } from './AboutPage'
+export { default as ContactPage } from './ContactPage'

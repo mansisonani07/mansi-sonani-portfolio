@@ -1,0 +1,4 @@
+.gradient-blue { background: linear-gradient(90deg, #89AACC 0%, #4E85BF 100%); }
+.gradient-green { background: linear-gradient(90deg, #10B981 0%, #6366F1 100%); }
+.gradient-warm { background: linear-gradient(90deg, #F59E0B 0%, #EF4444 100%); }
+.gradient-cool { background: linear-gradient(135deg, #89AACC 0%, #6366F1 50%, #10B981 100%); }
