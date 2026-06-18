@@ -3,7 +3,7 @@
 
 > **BCA Graduate (April 2025)** | Building production-grade AI systems that replace manual workflows with autonomous intelligent agents. **Open to Full-Time Opportunities** in AI Automation, Multi-Agent Systems, and LLM Engineering roles.
 
-📍 Gujarat, India | 📧 sonanimansi05@gmail.com | 📱 +91 9327029754
+📍 Gujarat, India | 📧 sonanimansi05@gmail.com 
 
 ---
 
