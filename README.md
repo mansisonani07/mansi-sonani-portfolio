@@ -103,7 +103,7 @@ I specialize in **autonomous multi-agent architectures**, **n8n workflow automat
 
 ## 🎓 Education & Certifications
 
-**Bachelor of Computer Applications (BCA)** — First Class (62.37%)  
+**Bachelor of Computer Applications (BCA)** — First Class   
 *Swami Sahajanand College of Computer Science, Bhavnagar, Gujarat* | Sept 2022 – Apr 2025
 
 **Certifications:**
