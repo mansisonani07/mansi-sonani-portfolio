@@ -20,20 +20,20 @@ Backend-heavy Full-Stack Engineer and Prompt Engineer specializing in autonomous
 ## 🏗️ Architectural Core (The Crown Jewels)
 
 ### 🤖 Synapse-AI — Autonomous B2B API Integration Platform
-*   **The Architecture:** Engineered a 5-agent autonomous swarm (Orchestrator, DocReader, CodeWriter, Tester, Validator) using **LangGraph** and **Groq Llama 3.3 70B** to run sequential and parallel code-execution pipelines.[cite: 1]
-*   **The Metric:** Reduced enterprise B2B API integration timelines from **3 weeks to 25 seconds**, dropping infrastructure costs from $8,640 USD to $0 using strategic free-tier orchestration.[cite: 1]
+*   **The Architecture:** Engineered a 5-agent autonomous swarm (Orchestrator, DocReader, CodeWriter, Tester, Validator) using **LangGraph** and **Groq Llama 3.3 70B** to run sequential and parallel code-execution pipelines.
+*   **The Metric:** Reduced enterprise B2B API integration timelines from **3 weeks to 25 seconds**, dropping infrastructure costs from $8,640 USD to $0 using strategic free-tier orchestration.
 
 ### 🏫 CampusIQ — Full-Stack Multi-Portal Student ERP
-*   **The Architecture:** Built a 22-module full-stack system with 4 role-based portals (Admin, Faculty, Student, Parent). Backed by a 19-table **PostgreSQL** schema protected completely by Supabase Row-Level Security (RLS) policies.[cite: 1]
-*   **The Metric:** Completely replaced manual college management administration with Vercel serverless API routing, scoring a **94/100 performance profile** using Tailwind v4.[cite: 1]
+*   **The Architecture:** Built a 22-module full-stack system with 4 role-based portals (Admin, Faculty, Student, Parent). Backed by a 19-table **PostgreSQL** schema protected completely by Supabase Row-Level Security (RLS) policies.
+*   **The Metric:** Completely replaced manual college management administration with Vercel serverless API routing, scoring a **94/100 performance profile** using Tailwind v4.
 
 ---
 
 ## 📂 Active Engineering Lab (6+ Production Systems)
-Instead of manual updates, my full project index tracks live system updates natively. Every new open-source system, pipeline tool, or automation bot automatically loops into my public repository index the instant it is deployed.[cite: 1]
+Instead of manual updates, my full project index tracks live system updates natively. Every new open-source system, pipeline tool, or automation bot automatically loops into my public repository index the instant it is deployed.
 
 👉 **[Explore Full Live Production Repositories & Complete Source Code](https://github.com/mansisonani07?tab=repositories)**
-*(Includes: Social Media Scraper bots, n8n Immigration Intelligence Systems, and Local Async Lead Processors)*[cite: 1]
+*(Includes: Social Media Scraper bots, n8n Immigration Intelligence Systems, and Local Async Lead Processors)*
 
 ---
 
@@ -46,5 +46,5 @@ Instead of manual updates, my full project index tracks live system updates nati
 ---
 
 ## 🔗 Sync Infrastructure
-*   **LinkedIn Professional Profile:** [linkedin.com/in/mansi-sonani-0993513a6](https://linkedin.com/in/mansi-sonani-0993513a6)[cite: 1]
-*   **Developer Contact:** sonanimansi05@gmail.com[cite: 1]
+*   **LinkedIn Professional Profile:** [linkedin.com/in/mansi-sonani-0993513a6](https://linkedin.com/in/mansi-sonani-0993513a6)
+*   **Developer Contact:** sonanimansi05@gmail.com
